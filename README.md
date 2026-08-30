@@ -89,7 +89,7 @@ InfoPanel provides a comprehensive API for plugin development that allows access
 For detailed instructions on developing plugins, see our [Plugin Development Guide](PLUGINS.md).
 
 ## Demo
-![InfoPanel Demo](<img width="1795" height="471" alt="ToxicNewCustom" src="https://github.com/user-attachments/assets/aeaef4d3-5595-447b-850b-579727926694" />
+![InfoPanel Demo](<img width="1795" height="471" alt="ToxicNewCustom" src="https://github.com/user-attachments/assets/5c0c1f9a-d599-4975-a64e-972837c20370" />
 )
 
 *A demonstration of InfoPanel in action on a BeadaPanel USB LCD*
