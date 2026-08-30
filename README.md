@@ -72,6 +72,7 @@ InfoPanel features a robust plugin system that extends its capabilities:
 - **Weather Plugin**: Current weather conditions and forecasts
 
 ### Community Plugins
+- [InfoPanel LianLi RGB Controller Plugin](https://github.com/CyberFreek/infopanel-lianli-ledring/releases) - Adds the ability to control the RGB lighting around the 8.8" LianLi image.
 - [InfoPanel Spotify Plugin](https://github.com/F3NN3X/InfoPanel.Spotify) - Displays currently playing tracks and album art from Spotify
 - [InfoPanel FPS Plugin](https://github.com/F3NN3X/InfoPanel.FPS) - Shows FPS and performance metrics for gaming sessions
 - [InfoPanel YouTube Live Plugin](https://github.com/fweepa/InfoPanel.YoutubeLivePlugin) - Plays a YouTube Live stream in your panel
@@ -88,7 +89,8 @@ InfoPanel provides a comprehensive API for plugin development that allows access
 For detailed instructions on developing plugins, see our [Plugin Development Guide](PLUGINS.md).
 
 ## Demo
-![InfoPanel Demo](./Images/beadapanel-demo-1.gif)
+![InfoPanel Demo](<img width="1795" height="471" alt="ToxicNewCustom" src="https://github.com/user-attachments/assets/aeaef4d3-5595-447b-850b-579727926694" />
+)
 
 *A demonstration of InfoPanel in action on a BeadaPanel USB LCD*
 
